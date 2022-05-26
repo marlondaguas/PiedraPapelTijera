@@ -1,0 +1,38 @@
+.botonContenedor {
+  margin-top: 60px;
+}
+
+.btn-start {
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  background-color: rgb(38, 38, 133);
+  color: #fff;
+  border-radius: 40px;
+  border: 0;
+}
+
+.btn-restart {
+  font-size: 20px;
+  padding: 20px;
+  width: 200px;
+  background-color: rgb(133, 38, 49);
+  color: #fff;
+  border-radius: 40px;
+  border: 0;
+}
+
+.btn-start:hover {
+  cursor: pointer;
+  background-color: rgb(48, 48, 139);
+}
+
+.btn-restart:hover {
+  cursor: pointer;
+  background-color: rgb(143, 48, 55);
+}
+
+.bloqueado {
+  background-color: gray;
+  pointer-events: none;
+}

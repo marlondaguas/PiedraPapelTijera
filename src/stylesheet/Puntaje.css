@@ -1,0 +1,24 @@
+.resultado {
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.jugador1{
+  color: rgb(132, 247, 106);
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.jugador2{
+  color: rgb(244, 81, 100);
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.empate{
+  color:rgb(175, 196, 58);
+  font-size: 25px;
+  font-weight: bold;
+}

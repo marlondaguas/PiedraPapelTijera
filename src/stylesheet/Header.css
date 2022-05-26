@@ -1,0 +1,19 @@
+header{
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  margin-bottom: 50px;
+  font-size: 40px;
+}
+  
+.piedra {
+  color: coral;
+}
+  
+.papel {
+  color: rgb(50, 177, 103);
+}
+  
+.tijera {
+  color: greenyellow;
+}
